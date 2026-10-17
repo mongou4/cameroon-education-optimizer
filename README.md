@@ -44,6 +44,8 @@ The Budget Ceiling (0.17 Correlation): Annual financial budget alone shows a sur
 
 The Systemic Geographic Divide: Visual regression analysis reveals a dense clustering of Rural schools trapped in the low-impact (0-10 PIS) and low-pass-rate (40-60%) quadrant, while Urban Private and Mission schools dominate the upper quartiles.
 
+![Correlation Charts](correlation_charts.png)
+
 Technical Stack
 Language: Python 3.x
 
