@@ -54,5 +54,5 @@ Statistical Visualization: seaborn, matplotlib
 Environment: Jupyter Notebook
 
 How to Run This Project
-Clone the repository: git clone [https://github.com/](https://github.com/)[your-username]/cameroon-edu-optimizer.git
+Clone the repository: git clone https://github.com/mongou4/cameroon-education-optimizer
 
